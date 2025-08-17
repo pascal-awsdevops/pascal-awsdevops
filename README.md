@@ -11,7 +11,7 @@
 
 # 👋 Hi, I'm Pascal Esegemou Ekenya Fonjock
 
-I'm a Cloud & AI/ML Engineer | DevOps Automation | Multi-Cloud Solutions Architect with over 2 years experience, I specialize in designing, deploying, and managing secure, scalable, and cost-efficient cloud infrastructure across AWS, Google Cloud Platform (GCP), and Microsoft Azure. I’m passionate about using AI/ML, DevOps automation, and Infrastructure as Code (IaC) to solve real-world problems and accelerate innovation at scale.
+I'm a Cloud & AI/ML Engineer | DevOps Automation | Multi-Cloud Solutions Architect with over 5 years experience, I specialize in designing, deploying, and managing secure, scalable, and cost-efficient cloud infrastructure across AWS, Google Cloud Platform (GCP), and Microsoft Azure. I’m passionate about using AI/ML, DevOps automation, and Infrastructure as Code (IaC) to solve real-world problems and accelerate innovation at scale.
 
 🔧Core Competencies:
 •	Cloud Architecture (AWS, GCP, Azure)
